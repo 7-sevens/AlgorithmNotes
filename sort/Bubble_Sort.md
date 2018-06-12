@@ -42,7 +42,7 @@
 - 第二个循环（内循环），负责两两比较交换。
 
 ##### 3. 动图演示bubble_sort
-![这里写图片描述](./image/bubble_sort_1.gif)
+![这里写图片描述](./image/bubble_sort.gif)
 
 ##### 4. 性能分析
 - 平均时间复杂度：O(N^2)
