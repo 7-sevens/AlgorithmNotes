@@ -1,7 +1,7 @@
 # Algorithm
 some algorithm notes
 
-#### 排序算法系列目录说明
+### 排序算法
 
 - 冒泡排序（Bubble Sort）
 - 插入排序（Insertion Sort）
@@ -13,3 +13,9 @@ some algorithm notes
 - 计数排序（Counting Sort）
 - 桶排序（Bucket Sort）
 - 基数排序（Radix Sort）
+
+----
+
+### 查找算法
+
+- 二分查找
