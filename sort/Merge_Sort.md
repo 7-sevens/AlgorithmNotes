@@ -261,3 +261,9 @@ public static void merge_sort(int[] arr) {
 
 #### 总结
 归并排序和选择排序一样，归并排序的性能不受输入数据的影响，但表现比选择排序好的多，因为始终都是O(n log n）的时间复杂度。代价是需要额外的内存空间。
+
+---
+---
+**PS**: 更多资源，欢迎关注微信公众号：developer1024
+
+![这里写图片描述](./image/wechat_qrcode.jpeg)
