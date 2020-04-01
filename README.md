@@ -19,3 +19,10 @@ some algorithm notes
 ### 查找算法
 
 - 二分查找
+
+
+---
+---
+**PS**: 更多资源，欢迎关注微信公众号：developer1024
+
+![这里写图片描述](./image/wechat_qrcode.jpeg)
